@@ -24,9 +24,8 @@
   font-size: xx-large;
 }
 
-.weather {
+.section {
   width: 100%;
-  height: calc(100% - 10rem);
   display: flex;
   align-items: center;
   justify-content: center;
